@@ -6,17 +6,9 @@
 
 Я начинающий Java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с Казанского Федерального Университета, где я изучал программирование. После Вуза я подошел к обучению програмирования более зерьёзнее, я изучал мобильную разработку и даже работал в арбитражной компании где активно занимался разработкой несложных мобильных приложений на IOS и Anroid. После увольнения был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепил язык Java и разработка сервисов! С июня 2022 года по май 2023 я изучал Java разработку по курсам Наиля Алишева, Дениса Матвиенко и Заура трегулова, а так же проходил курсы на Stepik и выполнял упражнения на Codingbat, JavaRush и LeetCode. В настоящий момент мое обучение продолжается ежедневно и я нахожусь в поисках работы, параллельно с этим я работаю учтелем математики в международной школе на курсе и даже помогаю детям осваивать программирование с нуля!
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
-
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-x9kee-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/x9kee) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:marat.ganiullin1999@gmail.com)
 
 ---
 
