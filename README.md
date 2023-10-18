@@ -8,7 +8,7 @@
 
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-x9kee-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/x9kee) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:marat.ganiullin1999@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-x9kee-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ban_kai) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:marat.ganiullin1999@gmail.com)
 
 
 
